@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{73F0659B-370F-48B0-8B3B-25A705661372}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UserRegLambda/UserRegValidation.cs">
+    <Files>
+      <File FileName="UserRegLambda/Program.cs" Line="17" Column="2" />
+      <File FileName="UserRegLambda/UserRegValidation.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserRegLambda" expanded="True">
+            <Node name="UserRegLambda" expanded="True">
+              <Node name="UserRegValidation.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UserRegLambda FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

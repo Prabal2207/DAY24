@@ -1,0 +1,12 @@
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/bin/Debug/netcoreapp3.1/UserRegLambda.deps.json
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/bin/Debug/netcoreapp3.1/UserRegLambda.runtimeconfig.json
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/bin/Debug/netcoreapp3.1/UserRegLambda.runtimeconfig.dev.json
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/bin/Debug/netcoreapp3.1/UserRegLambda.dll
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/bin/Debug/netcoreapp3.1/UserRegLambda.pdb
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/obj/Debug/netcoreapp3.1/UserRegLambda.csproj.AssemblyReference.cache
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/obj/Debug/netcoreapp3.1/UserRegLambda.AssemblyInfoInputs.cache
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/obj/Debug/netcoreapp3.1/UserRegLambda.AssemblyInfo.cs
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/obj/Debug/netcoreapp3.1/UserRegLambda.csproj.CoreCompileInputs.cache
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/obj/Debug/netcoreapp3.1/UserRegLambda.dll
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/obj/Debug/netcoreapp3.1/UserRegLambda.pdb
+/Users/prabalrai/Projects/UserRegLambda/UserRegLambda/obj/Debug/netcoreapp3.1/UserRegLambda.genruntimeconfig.cache
